@@ -3034,5 +3034,5 @@ Usage (In Ghost editor):
 /* Shunsuke: For prismjs toolbar plugin */
 div.code-toolbar {
     position: relative;
-    max-width: 100%;
+    width: 100%;
 }
