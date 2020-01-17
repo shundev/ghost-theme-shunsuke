@@ -3030,3 +3030,9 @@ Usage (In Ghost editor):
         color: color(var(--green) l(+5%) s(-5%));
     }
 }
+
+/* Shunsuke: For prismjs toolbar plugin */
+div.code-toolbar {
+    position: relative;
+    max-width: 100%;
+}
